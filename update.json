@@ -1,4 +1,5 @@
-{
+
+ {
   "apps": {
     "nady.app.update": {
       "show_dialog": true,
@@ -10,7 +11,7 @@
     },
     "com.duygiangdg.magiceraser": {
       "show_dialog": true,
-      "force_redirect":  false
+      "force_redirect":  true
     }
     
   },
