@@ -9,7 +9,7 @@
       "force_redirect":  false
     },
     "com.duygiangdg.magiceraser": {
-      "show_dialog": false,
+      "show_dialog": true,
       "force_redirect":  false
     }
     
