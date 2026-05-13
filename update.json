@@ -6,11 +6,11 @@
     },
     "Com.ex": {
       "show_dialog": true,
-      "force_redirect":  false
+      "force_redirect":  true
     },
     "com.duygiangdg.magiceraser": {
       "show_dialog": true,
-      "force_redirect":  false
+      "force_redirect":  true
     }
     
   },
