@@ -1,23 +1,22 @@
-
- {
+{
   "apps": {
     "nady.app.update": {
-      "show_dialog": false,
-      "force_redirect": false
+      "show_dialog": true,
+      "force_redirect": true
     },
     "Com.ex": {
-      "show_dialog": false,
+      "show_dialog": true,
       "force_redirect":  false
     },
     "com.duygiangdg.magiceraser": {
-      "show_dialog": false,
-      "force_redirect":  false
+      "show_dialog": true,
+      "force_redirect":  true
     }
     
   },
   "data": {
     "download_link": "https://t.me/TEAMXROHIT",
     "toast": "UPDATE TO USE",
-    "changelog": "1.New Version With Bug Fixed\n 2. New Features Unlocked\n3.All Device Supported"
+    "changelog": "1.New Version With Bug Fixed\n 2. New Features Unlocked\n3.All Device Supported\nTG:- @TEAMXROHIT"
   }
 }
