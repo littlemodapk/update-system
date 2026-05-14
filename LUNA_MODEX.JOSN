@@ -1,18 +1,18 @@
 {
   "apps": {
     "nady.app.update": {
-      "show_dialog": true,
-      "force_redirect": true
+      "show_dialog": false,
+      "force_redirect": false
     },
     "Com.ex": {
-      "show_dialog": true,
+      "show_dialog": false,
       "force_redirect":  false
     },
     "com.duygiangdg.magiceraser": {
-      "show_dialog": true,
-      "force_redirect":  true
+      "show_dialog": false,
+      "force_redirect":  false
     }
-    
+
   },
   "data": {
     "download_link": "https://t.me/TEAMXROHIT",
