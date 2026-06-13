@@ -1,7 +1,7 @@
 {
   "settings": {
-    "admin_url": "https://t.me/DPMods",
-    "info_url": "https://youtube.com/dpmods",
+    "admin_url": "https://t.me/TEAMxROHIT",
+    "info_url": "https://youtube.com/LITTLEMODAPK",
     "info_msg": "How To Get Key",
     "key_validity": "24h"
   },
@@ -30,7 +30,7 @@
     "timezone": "Asia/Kolkata"
   },
   "update_system": {
-    "force_update_date": "01/01/2026",
+    "force_update_date": "01/09/2026",
     "update_url": "https://t.me/TEAMxROHIT",
     "update_title": "Update Required",
     "update_msg": "A new version is available. Please update."
