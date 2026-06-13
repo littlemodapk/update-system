@@ -1,16 +1,16 @@
 {
   "apps": {
     "nady.app.update": {
-      "show_dialog": true,
-      "force_redirect": true
+      "show_dialog": false,
+      "force_redirect": false
     },
     "Com.ex": {
-      "show_dialog": true,
-      "force_redirect":  false
+      "show_dialog": false,
+      "force_redirect":  true
     },
     "com.duygiangdg.magiceraser": {
-      "show_dialog": true,
-      "force_redirect":  true
+      "show_dialog": false,
+      "force_redirect":  false
     }
     
   },
