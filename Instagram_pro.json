@@ -1,0 +1,11 @@
+{
+  "show": true,
+  "version_name": "433.0.0.0.56",
+  "force_update": false,
+  "title": "New Update Available!",
+  "message": "Update to the latest version to enjoy new features and improvements.",
+  "button_text": "UPDATE NOW",
+  "cancel_button_text": "CLOSE",
+  "action_url": "t.me/TEAMxROHIT",
+  "theme": "dark"
+}
