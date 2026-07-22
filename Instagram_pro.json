@@ -1,7 +1,7 @@
 {
   "show": true,
   "version_name": "433.0.0.0.56",
-  "force_update": false,
+  "force_update": true,
   "title": "New Update Available!",
   "message": "Update to the latest version to enjoy new features and improvements.",
   "button_text": "UPDATE NOW",
