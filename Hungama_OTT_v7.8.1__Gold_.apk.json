@@ -1,15 +1,15 @@
 {
   "apps": {
     "nady.app.update": {
-      "show_dialog": false,
+      "show_dialog": true,
       "force_redirect": false
     },
     "Com.ex": {
-      "show_dialog": false,
+      "show_dialog": true,
       "force_redirect": true
     },
     "com.duygiangdg.magiceraser": {
-      "show_dialog": false,
+      "show_dialog": true,
       "force_redirect": false
     }
   },
@@ -18,6 +18,6 @@
     "toast": "UPDATE TO USE",
     "changelog": "1.New Version With Bug Fixed\n 2. New Features Unlocked\n3.All Device Supported"
   },
-  "Islive": true,
+  "Islive": false,
   "Islive__date": "2026-07-24T15:01:00.000Z"
 }
