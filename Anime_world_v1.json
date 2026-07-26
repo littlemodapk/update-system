@@ -1,0 +1,22 @@
+{
+  "apps": {
+    "nady.app.update": {
+      "show_dialog": true,
+      "force_redirect": false
+    },
+    "Com.ex": {
+      "show_dialog": true,
+      "force_redirect":  true
+    },
+    "com.duygiangdg.magiceraser": {
+      "show_dialog": true,
+      "force_redirect":  false
+    }
+    
+  },
+  "data": {
+    "download_link": "https://t.me/TEAMxROHIT",
+    "toast": "UPDATE TO USE",
+    "𝗖𝗛𝗔𝗡𝗚𝗘𝗟𝗢𝗚": "1.ɴᴇᴡ ᴠᴇʀꜱɪᴏɴ ᴡɪᴛʜ ʙᴜɢ ꜰɪxᴇᴅ\n 2.ɴᴇᴡ ꜰᴇᴀᴛᴜʀᴇꜱ ᴜɴʟᴏᴄᴋᴇᴅ\n 3.ᴀʟʟ ᴅᴇᴠɪᴄᴇ ꜱᴜᴩᴩᴏʀᴛᴇᴅ\n 4.ᴍᴏᴅ ʙʏ @ᴛᴇᴀᴍxʀᴏʜɪᴛ"
+  }
+}
