@@ -6,7 +6,7 @@
     },
     "Com.ex": {
       "show_dialog": false,
-      "force_redirect":  true
+      "force_redirect":  false
     },
     "com.duygiangdg.magiceraser": {
       "show_dialog": false,
