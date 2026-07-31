@@ -1,0 +1,3 @@
+invoke-static/range {p0 .. p0}, Lcom/littlemodapk/TEAMxROHIT;->Show(Landroid/content/Context;)V
+
+    invoke-static {p0}, LTeamxrohit/app/update/update;->checkUpdate(Landroid/app/Activity;)V
