@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "title": "Update Available!",
+  "message": "\ud83d\udea8 New Mod Update Available, To Continue Use Our MOD App Please Update It..",
+  "positivebtn": "JOIN CHANNEL",
+  "negativebtn": "CANCEL",
+  "downloadLink": "https://t.me/az_mods_adda",
+  "changelogTitle": "What's New",
+  "changeLogMessage": "New update available."
