@@ -41,7 +41,7 @@ update available best performance",
   ],
   "epicList": [
     {
-      "iconUrl": "https://bit.ly/EpicModderProfile",
+      "iconUrl": "https://bit.ly/4xuZjCw",
       "url": "https://telegram.me/EpicModder"
     },
     {
