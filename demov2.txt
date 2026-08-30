@@ -42,11 +42,11 @@ update available best performance",
   "epicList": [
     {
       "iconUrl": "https://bit.ly/4xuZjCw",
-      "url": "https://telegram.me/EpicModder"
+      "url": "https://telegram.me/TEAMxROHIT"
     },
     {
-      "iconUrl": "https://bit.ly/itshehzadaProfile",
-      "url": ""
+      "iconUrl": "https://bit.ly/3T3AM8r",
+      "url": "https://t.me/teamxrohit"
     },
     {
       "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Faceb=
