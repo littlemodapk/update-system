@@ -1,0 +1,11 @@
+{
+"show": true,
+"version_name": "6.92.4",
+"force_update": false,
+"title": "New Update Available!",
+"message": "Update to the latest version to enjoy new features and improvements.",
+"button_text": "UPDATE NOW",
+"cancel_button_text": "CLOSE",
+"action_url": "https://t.me/TEAMxROHIT",
+"theme": "dark"
+}
