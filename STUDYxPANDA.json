@@ -1,0 +1,12 @@
+{
+  "showAnnouncement": false,
+  "announcementText": "⚠ New V2 Update Available!",
+
+  "showContactButton": true,
+  "contactButtonText": "CONTACT ME",
+  "contactButtonUrl": "https://t.me/dp_mods",
+
+  "showAnnouncementButton": false,
+  "announcementButtonText": "DOWNLOAD APP",
+  "announcementButtonUrl": "https://yourdownloadlink.com"
+}
