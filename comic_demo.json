@@ -1,0 +1,9 @@
+{
+  "showDialog": true,
+  "latestVersionCode": 99999999,
+  "latestVersionName": "99999999",
+  "title": "UPDATE AVAILABLE",
+  "message": " This app version has been expired. Please download the latest version by clicking on the Download Button.",
+  "UpdateButtonText": "DOWNLOAD",
+  "UpdateButtonUrl": "url"
+}
