@@ -1,0 +1,12 @@
+{
+  "appName": "Proton VPN Premium",
+  "version": "5.20.300.0",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4wFgzo4",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
