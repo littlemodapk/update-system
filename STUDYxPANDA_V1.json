@@ -9,7 +9,7 @@
     "base_url": "https://arolinks.com/api",
     "api_token": "90f2dbd00070729964ec45a3a9186917388568f7",
     "json_key": "shortenedUrl",
-    "destination_trick": "https://translate.google.com/?sl=auto&tl=en&op=translate&text="
+    "destination_trick": "https://t.me/TeamxRohitRobot?start="
   },
   "ui_text": {
     "dialog_title": "TEAMxROHIT",
