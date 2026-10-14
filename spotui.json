@@ -1,0 +1,21 @@
+{
+  "apps": {
+    "nady.app.update": {
+      "show_dialog": false,
+      "force_redirect": false
+    },
+    "Com.ex": {
+      "show_dialog": false,
+      "force_redirect": false
+    },
+    "com.duygiangdg.magiceraser": {
+      "show_dialog": false,
+      "force_redirect": false
+    }
+  },
+  "data": {
+    "download_link": "https://t.me/TEAMxROHIT",
+    "toast": "UPDATE TO CONTINUE",
+    "changelog": "1. Performance Improved\n2. Bugs Fixed\n3. New Features Added\n4. All Devices Supported"
+  }
+}
